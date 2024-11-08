@@ -9,13 +9,13 @@ section {
 .hero {
     background-color: #1c1d25;
     height: 100vh;
-    color: white;
+    color: whitesmoke;
     font-size: 40px;
 }
 
 footer {
     background-color: black;
-    color: white;
+    color: whitesmoke;
     text-align: center;
     padding: 80px;
 }
